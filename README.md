@@ -8,9 +8,14 @@ At the moment, an integrated circuit have inputs at the left and optional output
 
 ### Wires
 
-Todo: Wire example
+A wire is defined by a pixel of color #FF8000. Diagonals and loops are not allowed.
+Also you can't connect two inputs without a gate.
 
-Todo: Bridge example
+<img src="docu/wires.png" width="76" height="84" />
+
+A bridge allows to cross two wires, and is defined by a pixel of color #804000.
+
+<img src="docu/bridges.png" width="68" height="84" />
 
 ### Gates
 
@@ -24,3 +29,6 @@ There is 4 gates kind:
 
 
 ### Memories
+
+
+### Subcircuits
