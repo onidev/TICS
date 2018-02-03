@@ -11,6 +11,12 @@ In theory, you can create any program or simulate any computer in TICS.
 ### A simple counter with digital 7-segment hexadecimal output
 ![alt tag](circuits/misc/counter.gif)
 
+### A little RAM of 64 bytes
+![alt tag](circuits/memories/ram_64_bytes.gif)
+
+### A big RAM of 1ko
+Warning, huge gif (1mo): https://i.imgur.com/jxnkkHN.gif
+
 ### Create a circuit
 
 You can create your bitmap circuits with any image editor that allow to draw pixels one by one without antialiasing and blurs.
