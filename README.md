@@ -40,13 +40,22 @@ A bridge allows to cross two wires, and is defined by a pixel of color #804000.
 
 ### Gates
 
-There is 4 gates kind:
+There is 4 low level gates kind:
 - #FF0000 And
 - #800000 Nand
 - #00FFFF Or
 - #0080FF Nor
 
 <img src="docu/gates.png" width="128" height="100" />
+
+Gates can be rotated like this:
+Todo: IMG
+
+You can create a binary inverter with a single Nand or Nor like this:
+Todo: IMG
+
+Or a more ellaborated gate like Xor or Xnor with some Nand / Nor:
+Todo: IMG
 
 ### Memories
 
