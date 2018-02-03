@@ -49,13 +49,16 @@ There is 4 low level gates kind:
 <img src="docu/gates.png" width="128" height="100" />
 
 Gates can be rotated like this:
-Todo: IMG
+
+<img src="docu/rotated_gates.png" width="40" height="124" />
 
 You can create a binary inverter with a single Nand or Nor like this:
-Todo: IMG
+
+<img src="docu/not.png" width="68" height="72" />
 
 Or a more ellaborated gate like Xor or Xnor with some Nand / Nor:
-Todo: IMG
+
+<img src="docu/xor_xnor.png" width="88" height="108" />
 
 ### Memories
 
@@ -91,4 +94,4 @@ We define a subcircuit with a rectangle of color #800080.
 There is no size restriction, and we can add a subcircuit inside another subcircuit...
 Like a normal circuit, atm you have to connect inputs at left and outputs at right.
 
-Todo: IMG
+<img src="docu/subcircuit.png" width="68" height="60" />
