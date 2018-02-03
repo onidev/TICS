@@ -1,10 +1,17 @@
 # TICS - The Integrated Circuit Simulator
 
-This repository contains samples for The Integrated Circuit Simulator.
+This repository contains samples for TICS.
 
 ## Overview
 
 TICS is a sandbox with logic gates. You write "programs" on a bitmap image, and the interpreter will simulate your circuit.
+
+In theory, you can create any program or simulate any computer in TICS.
+
+### A simple counter with digital 7-segment hexadecimal output
+![alt tag](circuits/misc/counter.gif)
+
+### Create a circuit
 
 You can create your bitmap circuits with any image editor that allow to draw pixels one by one without antialiasing and blurs.
 You can use MsPaint (on windows) or Kolourpaint (on linux) for example.
