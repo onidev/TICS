@@ -40,7 +40,7 @@ A bridge allows to cross two wires, and is defined by a pixel of color #804000.
 
 ### Gates
 
-There is 4 low level gates kind:
+There is 4 low level gates types:
 - #FF0000 And
 - #800000 Nand
 - #00FFFF Or
