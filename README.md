@@ -80,3 +80,15 @@ You can initialise (and visualize) data of a memory block with green #00FF00 pix
 
 
 ### Subcircuits
+
+Since there is no loops allowed, we need a way to compensate.
+A subcircuit is just like a circuit, but we can connect it's outputs to it's inputs.
+
+At the first simulation's state, if an input can't be determined, it will be set to "off".
+But at each step, linked values are memorized to feed the inputs at the next simulation.
+
+We define a subcircuit with a rectangle of color #800080.
+There is no size restriction, and we can add a subcircuit inside another subcircuit...
+Like a normal circuit, atm you have to connect inputs at left and outputs at right.
+
+Todo: IMG
