@@ -4,9 +4,10 @@ This repository contains samples for TICS, and [the interpreter (compiled)](http
 
 ## Overview
 
-TICS is a sandbox with logic gates. You write "programs" on a bitmap image, and the interpreter will simulate your circuit.
+TICS is a sandbox 'Game' with logic gates. You write "programs" on bitmap images, and the interpreter will simulate your circuit.
 
 In theory, you can create any program or simulate any computer in TICS.
+But be careful though, this does not reproduce the "real life". A computer made on TICS will probably not work on a real circuit.
 
 ### A simple counter with digital 7-segment hexadecimal output
 ![alt tag](circuits/misc/counter.gif)
