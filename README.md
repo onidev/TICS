@@ -1,6 +1,6 @@
 # TICS - The Integrated Circuit Simulator
 
-This repository contains samples for TICS, and [the interpreter (compiled)](https://github.com/onidev/TICS/releases/tag/0.1). 
+This repository contains samples for TICS, and [the interpreter (compiled)](https://github.com/onidev/TICS/releases). 
 
 ## Overview
 
