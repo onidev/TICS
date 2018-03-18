@@ -19,7 +19,7 @@ But be careful though, this does not reproduce the "real life". A computer made 
 Warning, huge gif (1mo): https://i.imgur.com/jxnkkHN.gif
 
 ### Game of Life
-![alt tag](circuits/misc/gol_pulsar.gif)
+Gif: https://i.imgur.com/BjcuCII.gif
 
 
 ### Create a circuit
