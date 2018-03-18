@@ -18,6 +18,10 @@ But be careful though, this does not reproduce the "real life". A computer made 
 ### A big RAM of 1ko
 Warning, huge gif (1mo): https://i.imgur.com/jxnkkHN.gif
 
+### Game of Life
+![alt tag](circuits/misc/gol_pulsar.gif)
+
+
 ### Create a circuit
 
 You can create your bitmap circuits with any image editor that allow to draw pixels one by one without antialiasing and blurs.
