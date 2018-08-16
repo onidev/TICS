@@ -18,6 +18,9 @@ But be careful though, this does not reproduce the "real life". A computer made 
 ### A big RAM of 1ko
 Warning, huge gif (1mo): https://i.imgur.com/jxnkkHN.gif
 
+### A fibonacci calculator
+https://i.imgur.com/I6tdx8A.gif
+
 ### Game of Life
 Gif: https://i.imgur.com/BjcuCII.gif
 
